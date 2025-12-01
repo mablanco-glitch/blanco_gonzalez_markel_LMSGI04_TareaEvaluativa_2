@@ -9,7 +9,7 @@
 		<html lang="es">
 
 			<head>
-				<link href="../css/estilo.css" rel="stylesheet" type="text/css" />
+				<link href="css/estilo.css" rel="stylesheet" type="text/css" />
 				<meta charset="utf-8"/>
 				<meta name="description" content="Página principal" />
 				<title>titulo de la web</title>
@@ -65,3 +65,4 @@
 	</xsl:template>
     
 </xsl:stylesheet>
+
